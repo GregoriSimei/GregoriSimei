@@ -1,6 +1,7 @@
-<div width="100%" style="display:flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregoriSimei&show_icons=true&count_private=true&rank_icon=github&icon_color=f8ab26&title_color=738f65&text_color=6e6e6e&bg_color=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoriSimei&layout=compact&langs_count=16&icon_color=f8ab26&title_color=738f65&text_color=6e6e6e&bg_color=transparent"/>
+[![banner](https://github.com/GregoriSimei/GregoriSimei/blob/main/img/banner1.png)](/)
+<div width="100%" style="display: flex; justify-content: space-between; flex-direction: row; background: red;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregoriSimei&show_icons=true&count_private=true&rank_icon=github&icon_color=f8ab26&title_color=738f65&text_color=b0b0b0&bg_color=00000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoriSimei&layout=compact&langs_count=16&icon_color=f8ab26&title_color=738f65&text_color=b0b0b0&bg_color=00000000&hide_border=true"/>
 </div>
 <br>
 

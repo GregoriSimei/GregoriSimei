@@ -1,25 +1,53 @@
-## Oiii! Eu sou a Gregori Simei
- <div>
-  <a href="https://github.com/GregoriSimei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregoriSimei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoriSimei&layout=compact&langs_count=16&theme=dracula"/>
+<div width="100%" style="display:flex; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregoriSimei&show_icons=true&count_private=true&rank_icon=github&icon_color=f8ab26&title_color=738f65&text_color=6e6e6e&bg_color=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoriSimei&layout=compact&langs_count=16&icon_color=f8ab26&title_color=738f65&text_color=6e6e6e&bg_color=transparent"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Greg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Greg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Greg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Greg-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
-  
-  ##
- 
+<br>
+
+# Stack
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>DevOps</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        <img align="center" alt="Greg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Greg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" alt="Greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+      <div>
+    </td>
+    <td>
+     <div style="display: flex; flex-wrap: wrap;">
+       <img align="center" alt="Greg-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+       <img align="center" alt="Greg-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+       <img align="center" alt="Greg-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+       <img align="center" alt="Greg-Vitest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg">
+     <div>
+    </td>
+    <td>
+       <div style="display: flex; flex-wrap: wrap;">
+         <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+         <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+         <img align="center" alt="Greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       </div>
+    </td>
+    <td>
+       <div style="display: flex; flex-wrap: wrap;">
+         <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+         <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+       </div>
+    </td>
+  </tr>
+</table>
+<br>
+
+# Contact 
 <div> 
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gregorisimei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gregori-simei-8b0703197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
